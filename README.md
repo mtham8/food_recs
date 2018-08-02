@@ -1,1 +1,27 @@
 # food_recs
+
+### Northern China
+* [Ji Rong Peking Duck ](https://www.yelp.com/biz/ji-rong-peking-duck-rosemead) (Rosemead)
+> Excellent and authentic peking duck. They serve you the whole duck in different courses (duck soup, peking duck, and others).
+
+
+### Taiwan
+* [SinBala Restaurant](https://www.yelp.com/biz/sinbala-restaurant-arcadia-2?osq=taiwanes) (Temple City)
+> Authentic Taiwanese comfort food, with shaved ice for dessert. CASH ONLY.
+
+* [Jin Tea Shop](https://www.yelp.com/biz/jin-tea-shop-pasadena) (South Pasadena)
+> Organic Tea imported from Taiwan. Their Oriental Beauty Oolong Tea is good if you like milk in your tea. If you don't, High Mountain Oolong Tea is great with fruit flavors.
+
+### Southern China
+* [Savoy Kitchen](https://www.yelp.com/biz/savoy-kitchen-alhambra) (Alhambra)
+> Really good Hainan chicken.. and pizza!
+
+* [The Congee](https://www.yelp.com/biz/the-congee-alhambra-2) (Alhambra)
+> Golfball-sized wontons (yum), food tastes like it's from an outdoor small food corner shop in HK - prety good congee too.
+
+* [Newport Seafood Restaurant](https://www.yelp.com/biz/newport-seafood-restaurant-san-gabriel-4) (San Gabriel)
+> This is one of the restaurants chef David Chang went to in his show, [Ugly Delicious Season 1 Episode 7](https://www.eater.com/2018/2/23/17017880/ugly-delicious-fried-rice-recap-season-1-episode-7), where he ordered off a secret menu... Nonetheless, their House Special Lobster is really good. Not sure why Yelp labels this place 'Vietnamese', because it's definitely Cantonese food.
+
+### Thailand
+* [Pa Ord Noodle](https://www.yelp.com/biz/pa-ord-noodle-los-angeles-4) (East Hollywood)
+> Super authentic Thai food, served in the same portions as Thailand - small, so you can get multiple dishes per person.
