@@ -3,7 +3,7 @@
 ### Regions
 * [Northern China](#northern-china)
 * [Southern China](#southern-china)
-* [Korean](#korea)
+* [Korea](#korea)
 * [Taiwan](#taiwan)
 * [Thailand](#thailand)
 
