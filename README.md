@@ -21,7 +21,7 @@
 > Really good Hainan chicken.. and pizza!
 
 * [The Congee](https://www.yelp.com/biz/the-congee-alhambra-2) (Alhambra)
-> Golfball-sized wontons (yum), food tastes like it's from an outdoor small food corner shop in HK - prety good congee too.
+> Golfball-sized wontons (yum), food tastes like it's from an outdoor small food corner shop in HK - pretty good congee too.
 
 * [Newport Seafood Restaurant](https://www.yelp.com/biz/newport-seafood-restaurant-san-gabriel-4) (San Gabriel)
 > This is one of the restaurants chef David Chang went to in his show, [Ugly Delicious Season 1 Episode 7](https://www.eater.com/2018/2/23/17017880/ugly-delicious-fried-rice-recap-season-1-episode-7), where he ordered off a secret menu... Nonetheless, their House Special Lobster is really good. Not sure why Yelp labels this place 'Vietnamese', because it's definitely Cantonese food.
