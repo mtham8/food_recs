@@ -1,5 +1,13 @@
 # food_recs
 
+### Regions
+[Northern China](#northern-china)
+[Taiwan](#taiwan)
+[Southern China](#southern-china)
+[Thailand](#thailand)
+[Korean](#korean)
+
+
 ### Northern China
 * [Ji Rong Peking Duck](https://www.yelp.com/biz/ji-rong-peking-duck-rosemead) (Rosemead)
 > Excellent and authentic peking duck. They serve you the whole duck in different courses (duck soup, peking duck, and others).
