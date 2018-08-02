@@ -1,11 +1,11 @@
 # food_recs
 
 ### Regions
-[Northern China](#northern-china)
-[Taiwan](#taiwan)
-[Southern China](#southern-china)
-[Thailand](#thailand)
-[Korean](#korean)
+* [Northern China](#northern-china)
+* [Southern China](#southern-china)
+* [Korean](#korea)
+* [Taiwan](#taiwan)
+* [Thailand](#thailand)
 
 
 ### Northern China
@@ -43,6 +43,6 @@
 > Great curry and all around great authentic taste in all dishes.
 
 
-### Korean
+### Korea
 * [Young Dong Tofu House](https://www.yelp.com/biz/young-dong-tofu-house-san-gabriel-2?osq=Restaurants) (San Gabriel)
 > Delicious soon-du-bu (tofu soup). There's a dish called [Rice with Spicy Seasoned Octopus in Stone Pot](https://www.yelp.com/biz_photos/young-dong-tofu-house-san-gabriel-2?select=dnntgRlbjVvpSEADbCg8WA) that's really good, and pretty sure I've only seen it on the menu here.
