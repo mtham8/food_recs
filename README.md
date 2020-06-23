@@ -34,6 +34,18 @@
 [Savoy Kitchen](https://www.yelp.com/biz/savoy-kitchen-alhambra) (Alhambra)
 * Really good Hainan chicken.. and pizza!
 
+[Harlam's Kitchen](https://www.yelp.com/biz/harlams-kitchen-rosemead-2) (Rosemead)
+* Good HK street food, delicious and cheap
+
+[JJ Hong Kong Cafe](https://www.yelp.com/biz/jj-hong-kong-cafe-monterey-park) (Monterey Park)
+
+[Ho Kee Cafe](https://www.yelp.com/biz/ho-kee-cafe-san-gabriel-san-gabriel) (San Gabriel)
+
+[Bay Island Cafe](https://www.yelp.com/biz/bay-island-cafe-rosemead) (Rosemead)
+
+[Phoenix Dessert](https://www.yelp.com/biz/phoenix-dessert-alhambra) (Alhambra)
+* Tasty desserts, both asian, western, and fusion
+
 [The Congee](https://www.yelp.com/biz/the-congee-alhambra-2) (Alhambra)
 * Golfball-sized wontons (yum), food tastes like it's from an outdoor small food corner shop in HK - pretty good congee too.
 
